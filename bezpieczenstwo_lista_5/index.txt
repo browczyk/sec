@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Pwr mail</title>
+    </head>
+
+    <body> 
+        <h1>Witaj na mailu pwr</h1>
+    </body>
+</html>
